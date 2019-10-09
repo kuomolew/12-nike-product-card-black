@@ -120,16 +120,16 @@ main {
 }
 
 .product__bullets input::after {
-    width: 10px;
-    height: 10px;
+    width: 13px;
+    height: 13px;
     background-color: #1f273f;
     border-radius: 50%;
     content: "";
     display: inline-block;
     border: 2px solid #111a28;
     position: relative;
-    top: -1px;
-    left: -1px;
+    top: -2px;
+    left: -2px;
 }
 
 .product__bullets input:checked:after {
